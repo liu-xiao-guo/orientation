@@ -1,0 +1,17 @@
+{
+    "name": "orientation.liu-xiao-guo",
+    "description": "description of orientation",
+    "architecture": "all",
+    "title": "orientation",
+    "hooks": {
+        "orientation": {
+            "apparmor": "orientation.apparmor",
+            "desktop":  "orientation.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

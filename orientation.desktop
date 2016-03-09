@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=orientation
+Exec=qmlscene $@ Main.qml
+Icon=orientation.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
